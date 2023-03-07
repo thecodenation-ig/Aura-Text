@@ -22,4 +22,3 @@ currently being supported with security updates.
 It all depends on the seriousness of the issue. If it's small, report it in the `Issues` page with the label `Security`. You can pull request if you managed to fix the vulnerability. But if the issue is really concerning, then I'll prefer to be sent a dm first. My socials and discord can be found in my profile bio.
 
 ### Thanks for showing interest in Aura Text. It means a lot.
- 
